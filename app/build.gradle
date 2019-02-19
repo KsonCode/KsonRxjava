@@ -30,7 +30,6 @@ dependencies {
     // Retrofit库
     implementation 'com.squareup.retrofit2:retrofit:2.4.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
-
     //支持rxjava的
-    implementation "com.squareup.retrofit2:adapter-rxjava:2.4.0"
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.5.0'
 }
